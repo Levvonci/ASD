@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8583aad770b3a521",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c7231a5507e339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61501cbeec3b4abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/Notazione Asintotica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notazione Asintotica"
+            }
+          },
+          {
+            "id": "00f38631c9435997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teoria/Notazione Asintotica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notazione Asintotica"
+            }
+          },
+          {
+            "id": "f54511cbd881f3aa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Algoritmi e strutture dati.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Algoritmi e strutture dati"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fd5adfec8f3586e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c55d9c760584277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e3dfa6f45f8abd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bd457cb2db685b21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c086c31302e6d2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eaa050b6cc5ca004",
+    "type": "split",
+    "children": [
+      {
+        "id": "87d2569a344f1e6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab80083b4604cd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algoritmi e strutture dati.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Algoritmi e strutture dati"
+            }
+          },
+          {
+            "id": "2a38ef3509e91211",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algoritmi e strutture dati.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Algoritmi e strutture dati"
+            }
+          },
+          {
+            "id": "eb20cb02fcdda002",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d8398aa99759bc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algoritmi e strutture dati.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Algoritmi e strutture dati"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f54511cbd881f3aa",
+  "lastOpenFiles": [
+    "Teoria/Equazioni di ricorrenza.md",
+    "Algoritmi e strutture dati.pdf",
+    "Algoritmi e strutture dati ( etc.) (Z-Library).pdf",
+    "Teoria/Notazione Asintotica.md",
+    "Teoria/Crescita delle funzioni.md"
+  ]
+}
