@@ -6,7 +6,6 @@
       {
         "id": "c267d4630858c4b0",
         "type": "tabs",
-        "dimension": 55.064308681672024,
         "children": [
           {
             "id": "e3243bf5db5599ea",
@@ -20,25 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Programmazione_Dinamica_I_-_Insieme_Indipendente_Cammino"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d4821d97f2999caf",
-        "type": "tabs",
-        "dimension": 44.935691318327976,
-        "children": [
-          {
-            "id": "3d7f84dd3ccbdcfc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MOD II/slides/04_DP_I_2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "04_DP_I_2024"
             }
           }
         ]
@@ -98,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5026054382324
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "6a643a868cda13fe",
@@ -191,9 +172,9 @@
   },
   "active": "e3243bf5db5599ea",
   "lastOpenFiles": [
-    "MOD II/appunti/Kruskal_-_Prim.md",
-    "MOD II/appunti/Programmazione_Dinamica_I_-_Insieme_Indipendente_Cammino.md",
     "MOD II/slides/04_DP_I_2024.pdf",
+    "MOD II/appunti/Programmazione_Dinamica_I_-_Insieme_Indipendente_Cammino.md",
+    "MOD II/appunti/Kruskal_-_Prim.md",
     "MOD II/appunti/Clustering.md",
     "Kruskal - Prim.md",
     "Clustering.md"
