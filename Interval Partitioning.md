@@ -1,0 +1,1 @@
+L'Interval partitioning è un problema dove abbiamo j classi, con starting time sj e finish time fj ed l'obiettivo è trovare il minimo numero di classi necessarie per schedulare tutte le lezioni in maniera tale che dentro ogni singola classe tutte le lezioni siano compatibili fra loro
