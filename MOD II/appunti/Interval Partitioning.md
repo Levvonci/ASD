@@ -18,10 +18,12 @@ Le classi sono implementate con una coda con priorità (chiave: finish time dell
 Il totale delle operazioni di coda con priorità è $O(n)$; ognugna impiega $O(log(n))$ tempo
 
 ## Chiave
-La profondità
+**Depth:** massimo numero di intervalli che si sovrappongono in un certo istante
 **Osservazione chiave:** Numero di classi che servono >= profondità
 
 ## Dimostrazione di Correttezza
 Sia $d$ il numero di classi che l'algoritmo alloca.
 La classe $d$ è aperta perchè bisogna schedulare una lezione chiamata $j$ che è icompatibile con le $d-1$ classi.
 Dato che abbiamo ordinato per starting time tutte le lezioni, allora tutte le lezioni incompatibili inizieranno non più tardi di $s_{j}$.
+
+depth massimo numero di intervalli che si sovrappongono in un certo istante
