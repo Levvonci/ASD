@@ -1,6 +1,6 @@
 L'Interval partitioning è un problema dove troviamo $j$ lezioni, con starting time $s_{j}$ e finish time $f_{j}$. L'obiettivo è trovare il minimo numero di classi necessarie per schedulare tutte le lezioni in maniera tale che dentro ogni singola classe, le lezioni non si overlappino.
 
-## Algoritmo Ottimale - Earlist start time first
+## Algoritmo Greedy - Earlist start time first
 ```
 1. Ordino i Jobs per starting time
 2. inizializzo le classi a 0
@@ -8,7 +8,7 @@ L'Interval partitioning è un problema dove troviamo $j$ lezioni, con starting t
 	4. Se la lezione è schedulabile nella classe
 		5. Allora la inserisco nella classe 
 	5. Altrimenti
-			1. Alloco una nuova classe e schedulo la lezione all'interno di              quella classe
+			1. Alloco una nuova classe e schedulo la lezione all'interno di quella classe
 ```
 Ordinare i jobs per starting time con un algoritmo di sorting costa $O(nlog(n))$ 
 Le classi sono implementate con una coda con priorità (chiave: finish time dell'ultima lezione)

@@ -53,5 +53,14 @@
   "minimal-style@@tag-color@@dark": "#F9F9F6",
   "minimal-style@@tag-background@@dark": "#B86048",
   "minimal-style@@tag-background-hover@@dark": "#B860482B",
-  "minimal-style@@tx1@@dark": "#8C8C8C"
+  "minimal-style@@tx1@@dark": "#8C8C8C",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark",
+  "sanctum@@color-accent-rgb-d": "102, 153, 97",
+  "sanctum@@file-line-width": 50,
+  "sanctum@@active-line-accent": "transparent",
+  "sanctum@@code-lines": true,
+  "sanctum@@code-label": true,
+  "sanctum@@code-border": true,
+  "sanctum@@code-background@@dark": "#1C1C1C",
+  "sanctum@@code-normal-inline@@dark": "#FFFFFF"
 }
