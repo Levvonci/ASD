@@ -15,7 +15,7 @@ Le classi sono implementate con una coda con priorità (chiave: finish time dell
 - Per allocare una nuova classe, uso l'INSERT all'interno della coda con priorità
 - Per schedulare la lezione $j$ all'interno della classe $k$, incremento la chiave della classe $k$ con $f_{j}$ (finish time dell'ultima lezione schedulata)
 - Per determinare quale lezione $j$ è compatibile con una classe, compariamo $s_{j}$ con con Find-Min
-Il totale delle operazioni di coda con priorità è $O(n)$; ognugna impiega $O(log(n))$ tempo
+Il totale delle operazioni di coda con priorità è $O(n)$; ognuna impiega $O(log(n))$ tempo
 
 ## Chiave
 **Depth:** massimo numero di intervalli che si sovrappongono in un certo istante

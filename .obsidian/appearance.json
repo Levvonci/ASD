@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Sanctum",
+  "cssTheme": "Minimal",
   "interfaceFontFamily": "Hack Nerd Font,BigBlueTerm437 Nerd Font Mono,Fira Code",
-  "textFontFamily": "JetBrainsMono Nerd Font,Comic Sans MS,Hack Nerd Font"
+  "textFontFamily": "JetBrainsMono Nerd Font,Comic Sans MS,Hack Nerd Font",
+  "theme": "obsidian"
 }
